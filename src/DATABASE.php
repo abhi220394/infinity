@@ -2,7 +2,7 @@
 namespace INFINITY;
 use \PDO;
 use \stdClass;
-class DB {
+class DATABASE {
     private $Host = null;
     private $Database = null;
     private $User = null;
