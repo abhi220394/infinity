@@ -1,0 +1,19 @@
+{
+    "name": "abhi220394/infinity",
+    "description": "My Personal Repo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Abhishek Mishra",
+            "email": "info@abhimishra.com"
+        }
+    ],
+	"license": "proprietary",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "INFINITY\\": "src/"
+        }
+    },	
+    "require": {}
+}
