@@ -11,8 +11,8 @@
 	"license": "proprietary",
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {
-            "INFINITY\\": "src/"
+        "psr-0": {
+            "Infinity": "src/"
         }
     },	
     "require": {}
