@@ -20,7 +20,6 @@ class DATABASE {
     public $debugSQL = null;
     public $created_at = true;
     public $updated_at = true;
-    public $test = true;
     public function __construct($host, $db, $user, $pass) {
         $this->Host = $host;
         $this->Database = $db;
